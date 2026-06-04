@@ -7,5 +7,13 @@
     <description>Sparkle update feed for DevTray</description>
     <language>en</language>
     <!-- BEGIN ITEMS -->
+    <item>
+      <title>1.0.4</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 04 Jun 2026 20:52:50 +0000</pubDate>
+      <enclosure url="https://download.devtray.app/DevTray-1.0.4.dmg" sparkle:edSignature="OFPXHPwoDjkalIK+J6y8V5yl4OfhktluEvkYTJgHUCZeemFVZMYNnACUHaAR0oAoHN6MQwPaLG++Q/FvPr5aAQ==" length="6472519" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
