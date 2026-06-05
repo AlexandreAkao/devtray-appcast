@@ -8,6 +8,14 @@
     <language>en</language>
     <!-- BEGIN ITEMS -->
     <item>
+      <title>1.0.8</title>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 05 Jun 2026 04:55:21 +0000</pubDate>
+      <enclosure url="https://download.devtray.app/DevTray-1.0.8.dmg" sparkle:edSignature="nvQru/oiLLMwk8ncYS8udG6sYtVeAfQ6k9NKG94azMrGFA9sA+Zmvn+DMw8+ZUcmzpDBjtwAtLWsZjAMfbPoDg==" length="6466647" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>1.0.7</title>
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
